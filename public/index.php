@@ -59,4 +59,4 @@ $response->send();
 
 $kernel->terminate($request, $response);
 
-echo 1;
+echo 2;
